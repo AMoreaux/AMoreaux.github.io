@@ -9,5 +9,5 @@ html, body {
 .rect {
   width: 50%;
   height: 50%;
-  background-color: var(--color-app);
+  background-color: var(--app);
 }
