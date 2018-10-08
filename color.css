@@ -1,7 +1,7 @@
 :root {
-  --app: #5e3092;
+  --app: #5bdc7e;
   --black: #141414;
-  --blue: #3991fd;
+  --blue: #132337;
   --blue-050: #e5f1fe;
   --blue-100: #c8e0fe;
   --blue-200: #a8cdfe;
@@ -22,7 +22,6 @@
   --green-700: #40b956;
   --green-800: #2b7d3b;
   --green-900: #20602d;
-  --grey: #dedede;
   --negative: #eb2654;
   --neutral-050: #fdfdfd;
   --neutral-100: #f5f5f5;
@@ -56,7 +55,6 @@
   --red-800: #800521;
   --red-900: #630419;
   --warning: #ffc82c;
-  --white: #ffffff;
   --yellow-050: #fff8e5;
   --yellow-100: #ffefc5;
   --yellow-200: #ffe6a2;
@@ -67,4 +65,5 @@
   --yellow-700: #f8b700;
   --yellow-800: #a87c00;
   --yellow-900: #815e00;
+  --un-petit-nom: #5f3636;
 }
