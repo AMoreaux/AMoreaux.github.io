@@ -4,11 +4,11 @@
   height="24"
   viewBox="0 0 24 24"
   fill="transparent"
-  stroke="currentColor"
   stroke-width="2"
   stroke-linecap="round"
   stroke-linejoin="round"
   class="feather feather-gift"
+  style="stroke: var(--text)"
 >
   <polyline points="20 12 20 22 4 22 4 12"></polyline>
   <rect x="2" y="7" width="20" height="5"></rect>
