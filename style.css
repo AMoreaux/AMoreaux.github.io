@@ -72,6 +72,10 @@ svg + span {
   margin-left: 1rem;
 }
 
+img + span {
+  margin-left: 1rem;
+}
+
 
 h1 {
   margin-top: 2rem;
