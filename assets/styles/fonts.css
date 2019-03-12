@@ -6,8 +6,8 @@
 */
 
 @font-face {
-  font-family: "comic-sans-ms";
-  src: url("../fonts/Comic Sans MS.otf") format("opentype"),
-       url("../fonts/Comic Sans MS.woff") format("woff"),
-       url("../fonts/Comic Sans MS.woff2") format("woff2");
+  font-family: "eina-02-bold";
+  src: url("../fonts/Eina 02 Bold.otf") format("opentype"),
+       url("../fonts/Eina 02 Bold.woff") format("woff"),
+       url("../fonts/Eina 02 Bold.woff2") format("woff2");
 }
