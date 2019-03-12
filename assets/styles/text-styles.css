@@ -10,3 +10,11 @@
   font-size: 32px;
   font-weight: 400;
 }
+
+.action {
+  font-family: main-font;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.78;
+  letter-spacing: -0.8px;
+}
