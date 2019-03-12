@@ -6,9 +6,9 @@
 */
 
 .headline {
-  font-family: main-font;
+  font-family: eina-02-bold;
   font-size: 32px;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .action {

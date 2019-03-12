@@ -6,8 +6,8 @@
 */
 
 @font-face {
-  font-family: "main-font";
-  src: url("../fonts/main-font.otf") format("opentype"),
-       url("../fonts/main-font.woff") format("woff"),
-       url("../fonts/main-font.woff2") format("woff2");
+  font-family: "eina-02-bold";
+  src: url("../fonts/Eina 02 Bold.otf") format("opentype"),
+       url("../fonts/Eina 02 Bold.woff") format("woff"),
+       url("../fonts/Eina 02 Bold.woff2") format("woff2");
 }
