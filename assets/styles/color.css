@@ -6,7 +6,7 @@
 */
 
 :root {
-  --app: rgba(35, 206, 107, 0.18);
-  --background: #ffffff;
+  --app: #23ce6b;
+  --background: rgba(35, 206, 107, 0.09);
   --text: #272d2d;
 }
