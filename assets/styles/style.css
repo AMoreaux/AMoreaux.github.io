@@ -83,12 +83,6 @@ h1 {
   color: var(--text);
 }
 
-.u-text-valentin {
-  font-size: 32px;
-  line-height: 1.5;
-  letter-spacing: 0.4px;
-}
-
 .u-color-app {
   color: var(--app);
 }
