@@ -9,11 +9,9 @@
   font-family: inter-bold;
   font-size: 16px;
   font-weight: 600;
-  text-transform: uppercase;
 }
 
 .headline {
-  color: rgba(35, 205, 114, 1);
   font-family: inter-bold;
   font-size: 3rem;
   font-weight: 600;
