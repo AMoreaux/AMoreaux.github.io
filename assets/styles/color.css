@@ -6,7 +6,9 @@
 */
 
 :root {
-  --app: #cd23c2;
+  --black: #000101;
+  --violet: #624de3;
   --background: #ffffff;
   --text: #272d2d;
+  --pink: #cd23c2;
 }
